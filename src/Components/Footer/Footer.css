@@ -1,0 +1,62 @@
+.footer {
+    background-color: rgb(8, 21, 40);
+    padding: 20px; /* Adjust padding as needed */
+    color: #fff; /* Text color */
+    
+  }
+  
+  /* Style for the image container in the first div */
+  .Logo-container {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style for the image */
+  .Logo-container img {
+    max-width: 10%; /* Adjust the maximum width of the image */
+    height: auto;
+  }
+  .footer-bar {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-bar a {
+    font-family:Roboto, sans-serif;
+    color: #fff; /* Link text color */
+    text-decoration: none; /* Remove underline */
+    margin: 0 30px; /* Adjust spacing between links */
+  }
+  /* Style for individual items (optional) */
+  /*.footer-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 5px;
+    border-radius: 5px;
+  }*/
+  .Address-Container{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family :Roboto,sans-serif;
+    font-size:16px;
+    text-align:center;
+    color:RGB(111, 127, 146);
+  }
+  .social-icon{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .social-icon a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0 10px; /* Adjust spacing between icons */
+  }
