@@ -20,12 +20,12 @@ This project is a clone of NTWIST using React, aiming to replicate its key funct
 
 ### Clone the repository
 
-()Download as a zip the repository.
+* Download as a zip the repository.
 
-()now open the repository in working Environment(VS Code).
+* now open the repository in working Environment(VS Code).
 
-()open terminal and run both the command.
+* open terminal and run both the command:-.
 
-()npm i
+* npm i
 
-()npm run dev
+* npm run dev
