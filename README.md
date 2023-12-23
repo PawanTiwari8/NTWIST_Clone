@@ -5,9 +5,13 @@ This project is a clone of NTWIST using React, aiming to replicate its key funct
 ()In this i have created five Components :
 
    ()Header:-It is for navbar.
+   
    ()Footer:-footer is containing all the footer elements.
+   
    ()Read-Button:-It contain Read more button component.
+   
    ()BackTop:-It contain Back to top button.
+   
    ()Home:-It is home component
    
 ()In this project i used react-router-dom for routing and Links
@@ -17,7 +21,11 @@ This project is a clone of NTWIST using React, aiming to replicate its key funct
 ### Clone the repository
 
 ()Download as a zip the repository.
+
 ()now open the repository in working Environment(VS Code).
+
 ()open terminal and run both the command.
+
 ()npm i
+
 ()npm run dev
